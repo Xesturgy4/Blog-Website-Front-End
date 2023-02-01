@@ -1,0 +1,6 @@
+
+Text Editors:
+https://www.sanity.io/guides/top-5-rich-text-react-components
+
+
+multer for image uploading and sharpjs for image resizing
